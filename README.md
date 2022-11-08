@@ -1,2 +1,2 @@
 # Object Affordance State Recognition 
-Dataset and code will be presented soon.
+The dataset and code will be released soon.
